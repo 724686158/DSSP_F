@@ -14,13 +14,8 @@ const asideMenuConfig = [
     icon: 'cascades',
   },
   {
-    name: '性能监控',
-    path: '/model/performance',
-    icon: 'repair',
-  },
-  {
     name: '反馈',
-    path: 'https://github.com/alibaba/ice/issues/new',
+    path: 'https://github.com/724686158/DSSP_F/issues/new',
     icon: 'question2',
     external: true,
     newWindow: true,

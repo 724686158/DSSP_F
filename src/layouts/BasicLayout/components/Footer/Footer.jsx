@@ -21,13 +21,13 @@ export default () => {
         style={{
           color: '#999',
           lineHeight: 1.5,
-          fontSize: 12,
+          fontSize: 8,
           textAlign: 'right',
         }}
       >
-        阿里巴巴集团
+        孟子成
         <br />
-        © 2018 版权所有
+        724686158@qq.com
       </div>
     </div>
   );

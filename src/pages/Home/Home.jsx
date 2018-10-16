@@ -1,6 +1,5 @@
 import React, { Component } from 'react';
-import Banner from './components/Banner';
-import Introduction from './components/Introduction';
+import CustomAccordion from './components/CustomAccordion'
 
 export default class Home extends Component {
   static displayName = 'Home';
@@ -17,8 +16,7 @@ export default class Home extends Component {
   render() {
     return (
       <div>
-        <Banner />
-        <Introduction />
+        <CustomAccordion />
       </div>
     );
   }

@@ -11,7 +11,7 @@ export default class Logo extends Component {
           alt="logo"
         />
         <Link to="/" style={styles.logoText}>
-          算法模型服务平台
+          数据科学服务平台
         </Link>
       </div>
     );

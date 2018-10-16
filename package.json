@@ -17,7 +17,7 @@
   },
   "dependencies": {
     "@antv/data-set": "^0.9.6",
-    "@icedesign/base": "^0.2.0",
+    "@icedesign/base": "^0.2.3",
     "@icedesign/container": "^0.1.4",
     "@icedesign/form-binder": "^0.1.14",
     "@icedesign/img": "^0.1.1",
