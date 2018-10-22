@@ -4,16 +4,6 @@
 
 const asideMenuConfig = [
   {
-    name: '模型管理',
-    path: '/model/management',
-    icon: 'home2',
-  },
-  {
-    name: '模型市场',
-    path: '/model/market',
-    icon: 'cascades',
-  },
-  {
     name: '反馈',
     path: 'https://github.com/724686158/DSSP_F/issues/new',
     icon: 'question2',

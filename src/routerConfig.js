@@ -4,8 +4,6 @@
 
 import BasicLayout from './layouts/BasicLayout';
 import Home from './pages/Home';
-import ModelManagement from './pages/ModelManagement';
-import ModelMarket from './pages/ModelMarket';
 import NotFound from './pages/NotFound';
 
 const routerConfig = [
@@ -13,16 +11,6 @@ const routerConfig = [
     path: '/',
     layout: BasicLayout,
     component: Home,
-  },
-  {
-    path: '/model/management',
-    layout: BasicLayout,
-    component: ModelManagement,
-  },
-  {
-    path: '/model/market',
-    layout: BasicLayout,
-    component: ModelMarket,
   },
   {
     path: '*',
